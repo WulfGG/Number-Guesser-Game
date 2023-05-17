@@ -1,5 +1,7 @@
 # Number-Guesser-Game
 
+(SIMPLE PROGRAMMING LEARNING)
+
 The Number Guesser Game is a simple interactive game where the program generates a random number and the player has to guess it within a certain number of attempts. The program provides hints to guide the player towards the correct answer.
 
 Features:
